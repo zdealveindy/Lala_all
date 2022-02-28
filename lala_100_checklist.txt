@@ -1,0 +1,408 @@
+﻿	species	species_author	species_zh	species_abbrev	life_form	fern	endemic	leaf_habit
+1	Abrodictyum obscurum	Abrodictyum obscurum (Blume) Ebihara & K.Iwats.	線片長片蕨	Abroobsc	E	TRUE	FALSE	
+2	Acer kawakamii	Acer kawakamii Koidz.	尖葉槭	Acerkawa	T	FALSE	FALSE	DB
+3	Acer morrisonense	Acer morrisonense Hayata	臺灣紅榨槭	Acermorr	T	FALSE	FALSE	DB
+4	Acer palmatum var. pubescens	Acer palmatum var. pubescens Li	臺灣掌葉槭	Acerpube	T	FALSE	FALSE	DB
+5	Acystopteris taiwaniana	Acystopteris taiwaniana (Tagawa) Á.Löve & D.Löve	臺灣亮毛蕨	Acystaiw	H	TRUE	FALSE	
+6	Acystopteris tenuisecta	Acystopteris tenuisecta (Blume) Tagawa	禾稈亮毛蕨	Acystenu	H	TRUE	FALSE	
+7	Adinandra formosana var. formosana	Adinandra formosana Hayata var. formosana	臺灣楊桐	Adinform	T	FALSE	TRUE	EB
+8	Aeschynanthus acuminatus	Aeschynanthus acuminatus Wall. ex A. DC.	長果藤	Aescacum	L	FALSE	FALSE	
+9	Ainsliaea latifolia subsp. henryi	Ainsliaea latifolia subsp. henryi (Diels) H. Koyama	臺灣鬼督郵	Ainshenr	H	FALSE	FALSE	
+10	Akebia trifoliata subsp. australis	Akebia trifoliata subsp. australis (Diels) T. Shimizu	白木通	Akebaust	L	FALSE	FALSE	
+11	Alpinia intermedia	Alpinia intermedia Gagnep.	山月桃	Alpiinte	H	FALSE	FALSE	
+12	Alpinia japonica	Alpinia japonica (Thunb.) Miq.	山薑	Alpijapo	H	FALSE	FALSE	
+13	Alsophila podophylla	Alsophila podophylla Hook.	鬼桫欏	Alsopodo	S	TRUE	FALSE	EB
+14	Alsophila spinulosa	Alsophila spinulosa (Wall. ex Hook.) R.M.Tryon	臺灣桫欏	Alsospin	T	TRUE	FALSE	EB
+15	Aniselytron treutleri	Aniselytron treutleri (Kuntze) Soják	溝稃草	Anistreu	H	FALSE	FALSE	
+16	Antidesma japonicum var. densiflorum	Antidesma japonicum var. densiflorum Hurus.	密花五月茶	Antidens	S	FALSE	FALSE	EB
+17	Arachniodes amabilis var. amabilis	Arachniodes amabilis (Blume) Tindale var. amabilis	屋久複葉耳蕨	Aracamab	H	TRUE	FALSE	
+18	Arachniodes festina	Arachniodes festina (Hance) Ching	臺灣兩面複葉耳蕨	Aracfest	H	TRUE	FALSE	
+19	Arachniodes pseudoaristata	Arachniodes pseudoaristata (Tagawa) Ohwi	小葉複葉耳蕨	Aracpseu	H	TRUE	FALSE	
+20	Ardisia brevicaulis	Ardisia brevicaulis Diels	屯鹿紫金牛	Ardibrev	S	FALSE	FALSE	EB
+21	Ardisia chinensis	Ardisia chinensis Benth.	華紫金牛	Ardichin	S	FALSE	FALSE	EB
+22	Ardisia cornudentata subsp. morrisonensis	Ardisia cornudentata subsp. morrisonensis (Hayata) Y.P. Yang	玉山紫金牛	Ardimorr	S	FALSE	FALSE	EB
+23	Ardisia crenata	Ardisia crenata Sims	珠砂根	Ardicren	S	FALSE	FALSE	EB
+24	Ardisia crispa	Ardisia crispa (Thunb.) A. DC.	百兩金	Ardicris	S	FALSE	FALSE	EB
+25	Ardisia japonica	Ardisia japonica (Thunb.) Blume	紫金牛	Ardijapo	S	FALSE	FALSE	EB
+26	Ardisia quinquegona	Ardisia quinquegona Blume	小葉樹杞	Ardiquin	T	FALSE	FALSE	EB
+27	Arisaema taiwanense	Arisaema taiwanense J. Murata	蓬萊天南星	Aristaiw	H	FALSE	TRUE	
+28	Arthromeris lehmannii	Arthromeris lehmannii (Mett.) Ching	肢節蕨	Arthlehm	E	TRUE	FALSE	
+29	Asarum albomaculatum	Asarum albomaculatum Hayata	白斑細辛	Asaralbo	H	FALSE	TRUE	
+30	Asarum macranthum	Asarum macranthum Hook. f.	大花細辛	Asarmacr	H	FALSE	FALSE	
+31	Asarum sp.	Asarum L.	細辛屬	Asar_sp	H	FALSE	FALSE	
+32	Asplenium antiquum	Asplenium antiquum Makino	山蘇花	Asplanti	E	TRUE	FALSE	
+33	Asplenium nidus	Asplenium nidus L.	臺灣山蘇花	Asplnidu	E	TRUE	FALSE	
+34	Asplenium normale var. normale	Asplenium normale D.Don var. normale	生芽鐵角蕨	Asplnorm	H	TRUE	FALSE	
+35	Asplenium wilfordii var. wilfordii	Asplenium wilfordii Mett. ex Kuhn var. wilfordii	威氏鐵角蕨	Asplwilf	E	TRUE	FALSE	
+36	Athyrium arisanense	Athyrium arisanense (Hayata) Tagawa	阿里山蹄蓋蕨	Athyaris	H	TRUE	FALSE	
+37	Athyrium delavayi var. delavayi	Athyrium delavayi Christ var. delavayi	溪谷蹄蓋蕨	Athydela	H	TRUE	FALSE	
+38	Athyrium iseanum var. angustisectum	Athyrium iseanum Rosenst. var. angustisectum Tagawa	細葉蹄蓋蕨	Athyangu	H	TRUE	FALSE	
+39	Athyrium nakanoi	Athyrium nakanoi Makino	紅苞蹄蓋蕨	Athynaka	H	TRUE	FALSE	
+40	Athyrium opacum	Athyrium opacum (D.Don) Copel.	黑葉貞蕨	Athyopac	H	TRUE	FALSE	
+41	Barthea barthei	Barthea barthei (Hance ex Benth.) Krasser	深山野牡丹	Bartbart	S	FALSE	FALSE	EB
+42	Begonia formosana	Begonia formosana (Hayata) Masam.	水鴨腳	Begoform	H	FALSE	FALSE	
+43	Berberis hayatana	Berberis hayatana Mizush.	早田氏小檗	Berbhaya	S	FALSE	TRUE	EB
+44	Blastus cochinchinensis	Blastus cochinchinensis Lour.	柏拉木	Blascoch	S	FALSE	FALSE	EB
+45	Blechnopsis orientalis	Blechnopsis orientalis (L.) C.Presl	擬烏毛蕨	Blecorie	H	TRUE	FALSE	
+46	Brachypodium sp.	Brachypodium P. Beauv.	短柄草屬	Brac_sp	H	FALSE	FALSE	
+47	Bulbophyllum somae	Bulbophyllum somae Hayata	狹萼豆蘭	Bulbsoma	E	FALSE	TRUE	
+48	Bulbophyllum sp.	Bulbophyllum Thou.	石豆蘭屬	Bulb_sp	E	FALSE	FALSE	
+49	Calamus formosanus	Calamus formosanus Becc.	黃藤	Calaform	L	FALSE	TRUE	
+50	Calanthe aristulifera	Calanthe aristulifera Rchb. f.	濶葉根節蘭	Calaarst	H	FALSE	FALSE	
+51	Calanthe masuca	Calanthe masuca (D. Don) Lindl.	長距根節蘭	Calamasu	H	FALSE	FALSE	
+52	Calanthe sp.	Calanthe R. Br.	根節蘭屬	Cala_sp	H	FALSE	FALSE	
+53	Callicarpa formosana var. formosana	Callicarpa formosana Rolfe var. formosana	杜虹花	Callform	S	FALSE	FALSE	EB
+54	Callicarpa randaiensis	Callicarpa randaiensis Hayata	巒大紫珠	Callrand	S	FALSE	FALSE	DB
+55	Camellia brevistyla	Camellia brevistyla (Hayata) Cohen-Stuart	短柱山茶	Camebrev	T	FALSE	FALSE	EB
+56	Carex arisanensis	Carex arisanensis Hayata	阿里山疏花薹	Carearis	H	FALSE	FALSE	
+57	Carex brunnea	Carex brunnea Thunb.	束草	Carebrun	H	FALSE	FALSE	
+58	Carex cryptostachys	Carex cryptostachys Brongn.	多序宿柱薹	Carecryp	H	FALSE	FALSE	
+59	Carex filicina	Carex filicina Nees	紅鞘薹	Carefili	H	FALSE	FALSE	
+60	Carex perakensis	Carex perakensis C.B. Clarke	黃穗薹	Carepera	H	FALSE	FALSE	
+61	Carex sp.	Carex L.	薹草屬	Care_sp	H	FALSE	FALSE	
+62	Carex transalpina	Carex transalpina Hayata	大武宿柱薹	Caretran	H	FALSE	FALSE	
+63	Carpinus rankanensis	Carpinus rankanensis Hayata	蘭邯千金榆	Carprank	T	FALSE	FALSE	DB
+64	Castanopsis cuspidata var. carlesii	Castanopsis cuspidata var. carlesii (Hemsl.) T. Yamaz.	長尾尖葉櫧	Castcarl	T	FALSE	FALSE	EB
+65	Castanopsis uraiana	Castanopsis uraiana (Hayata) Kaneh. & Hatus.	烏來柯	Casturai	T	FALSE	FALSE	EB
+66	Celastrus punctatus	Celastrus punctatus Thunb.	光果南蛇藤	Celapunc	L	FALSE	FALSE	
+67	Cephalantheropsis obcordata	Cephalantheropsis obcordata (Lindl.) Ormerod	綠花肖頭蕊蘭	Cephobco	H	FALSE	FALSE	
+68	Cephalotaxus wilsoniana	Cephalotaxus wilsoniana Hayata	臺灣粗榧	Cephwils	T	FALSE	TRUE	CO
+69	Chamaecyparis formosensis	Chamaecyparis formosensis Matsum.	紅檜	Chamform	T	FALSE	FALSE	CO
+70	Chamaecyparis obtusa var. formosana	Chamaecyparis obtusa var. formosana (Hayata) Hayata	臺灣扁柏	Chamobtu	T	FALSE	FALSE	CO
+71	Chamaecyparis sp.	Chamaecyparis Spach	扁柏屬	Cham_sp	T	FALSE	TRUE	CO
+72	Cheiropleuria integrifolia	Cheiropleuria integrifolia (D.C.Eaton ex Hook.) M.Kato, Y.Yatabe, Sahashi & N.Murak.	燕尾蕨	Cheiinte	H	TRUE	FALSE	
+73	Chrysosplenium lanuginosum var. formosanum	Chrysosplenium lanuginosum var. formosanum (Hayata) H. Hara	臺灣貓兒眼睛草	Chryform	H	FALSE	TRUE	
+74	Cinnamomum austrosinense	Cinnamomum austrosinense H.T. Chang	牡丹葉桂皮	Cinnaust	T	FALSE	FALSE	EB
+75	Cinnamomum macrostemon	Cinnamomum macrostemon Hayata	胡氏肉桂	Cinnmacr	T	FALSE	TRUE	EB
+76	Cinnamomum subavenium	Cinnamomum subavenium Miq.	香桂	Cinnsuba	T	FALSE	FALSE	EB
+77	Clematis henryi var. henryi	Clematis henryi Oliv. var. henryi	亨利氏鐵線蓮	Clemhenr	L	FALSE	FALSE	
+78	Clerodendrum cyrtophyllum	Clerodendrum cyrtophyllum Turcz.	大青	Clercyrt	S	FALSE	FALSE	DB
+79	Clerodendrum trichotomum	Clerodendrum trichotomum Thunb.	海州常山	Clertric	S	FALSE	FALSE	DB
+80	Cleyera japonica	Cleyera japonica Thunb.	紅淡比	Cleyjapo	T	FALSE	FALSE	EB
+84	Collabium formosanum	Collabium formosanum Hayata	臺灣柯麗白蘭	Collform	H	FALSE	TRUE	
+85	Coniogramme intermedia	Coniogramme intermedia Hieron.	華鳳了蕨	Coniinte	H	TRUE	FALSE	
+86	Coptis quinquefolia	Coptis quinquefolia Miq.	五葉黃連	Coptquin	H	FALSE	FALSE	
+87	Cornus kousa subsp. chinensis	Cornus kousa subsp. chinensis (Osborn) Q.Y.Xiang	四照花	Cornchin	T	FALSE	FALSE	DB
+88	Coryphopteris angulariloba	Coryphopteris angulariloba (Ching) L.J.He & X.C.Zhang	鈍頭泛亞金星蕨	Coryangu	H	TRUE	FALSE	
+89	Coryphopteris castanea	Coryphopteris castanea (Tagawa) Y.H.Chang	栗柄泛亞金星蕨	Corycast	H	TRUE	FALSE	
+90	Crepidomanes minutum subsp. minutum	Crepidomanes minutum (Blume) K.Iwats. subsp. minutum	團扇蕨	Crepminu	E	TRUE	FALSE	
+91	Cryptocarya chinensis	Cryptocarya chinensis (Hance) Hemsl.	厚殼桂	Crypchin	T	FALSE	FALSE	EB
+92	Cunninghamia lanceolata var. konishii	Cunninghamia lanceolata var. konishii (Hayata) Fujita	巒大杉	Cunnkoni	T	FALSE	TRUE	CO
+93	Damnacanthus angustifolius	Damnacanthus angustifolius Hayata	無刺伏牛花	Damnangu	S	FALSE	FALSE	EB
+94	Damnacanthus indicus	Damnacanthus indicus C.F. Gaertn.	伏牛花	Damnindi	S	FALSE	FALSE	EB
+95	Daphniphyllum glaucescens subsp. oldhamii	Daphniphyllum glaucescens subsp. oldhamii T.C. Huang	奧氏虎皮楠	Dapholdh	T	FALSE	FALSE	EB
+96	Daphniphyllum himalaense subsp. macropodum	Daphniphyllum himalaense (Benth.) Müll.Arg. subsp. macropodum (Miq.) T.C.Huang	薄葉虎皮楠	Daphmacr	T	FALSE	FALSE	EB
+97	Davallia clarkei	Davallia clarkei Baker	小膜蓋蕨	Davaclar	E	TRUE	FALSE	
+98	Davallia trichomanoides	Davallia trichomanoides Blume	海洲骨碎補	Davatric	E	TRUE	FALSE	
+99	Dendrobium chryseum	Dendrobium chryseum Rolfe	金草	Dendchry	E	FALSE	FALSE	
+100	Dendrobium moniliforme	Dendrobium moniliforme (L.) Sw.	石斛	Dendmoni	E	FALSE	FALSE	
+101	Dendropanax dentiger	Dendropanax dentiger (Harms) Merr.	臺灣樹參	Denddent	T	FALSE	FALSE	EB
+102	Dennstaedtia scabra	Dennstaedtia scabra (Wall. ex Hook.) T.Moore	碗蕨	Dennscab	H	TRUE	FALSE	
+103	Deparia formosana	Deparia formosana (Rosenst.) R.Sano	假腸蕨	Depaform	H	TRUE	FALSE	
+104	Deutzia pulchra	Deutzia pulchra S. Vidal	大葉溲疏	Deutpulc	S	FALSE	FALSE	DB
+105	Dicranopteris tetraphylla	Dicranopteris tetraphylla (Rosenst.) C.M.Kuo	蔓芒萁	Dicrtetr	H	TRUE	FALSE	
+106	Dioscorea matsudae	Dioscorea matsudae Hayata	裏白葉薯榔	Diosmats	L	FALSE	FALSE	
+107	Diospyros morrisiana	Diospyros morrisiana Hance	山紅柿	Diosmorr	T	FALSE	FALSE	DB
+108	Diplazium dilatatum	Diplazium dilatatum Blume	廣葉鋸齒雙蓋蕨	Dipldila	H	TRUE	FALSE	
+109	Diplazium doederleinii	Diplazium doederleinii (Luerss.) Makino	德氏雙蓋蕨	Dipldoed	H	TRUE	FALSE	
+110	Diplazium donianum var. donianum	Diplazium donianum (Mett.) Tardieu var. donianum	細柄雙蓋蕨	Dipldoni	H	TRUE	FALSE	
+111	Diplazium kawakamii var. kawakamii	Diplazium kawakamii Hayata var. kawakamii	川上氏雙蓋蕨	Diplkawa	H	TRUE	FALSE	
+112	Diplazium mettenianum	Diplazium mettenianum (Miq.) C.Chr.	深山雙蓋蕨	Diplmett	H	TRUE	FALSE	
+113	Diplazium okinawaense	Diplazium okinawaense Tagawa	琉球雙蓋蕨	Diplokin	H	TRUE	FALSE	
+114	Diplazium petrii	Diplazium petrii Tardieu	廣葉深山雙蓋蕨	Diplpetr	H	TRUE	FALSE	
+115	Diplazium pullingeri	Diplazium pullingeri (Baker) J.Sm.	樸氏雙蓋蕨	Diplpull	H	TRUE	FALSE	
+116	Diplazium sp.	Diplazium Sw.	雙蓋蕨屬	Dipl_sp	H	TRUE	FALSE	
+117	Diplazium virescens var. virescens	Diplazium virescens Kunze var. virescens	綠葉雙蓋蕨	Diplvire	H	TRUE	FALSE	
+118	Diplopterygium glaucum	Diplopterygium glaucum (Thunb. ex Houtt.) Nakai	裏白	Diplglau	H	TRUE	FALSE	
+119	Drynaria coronans	Drynaria coronans (Wall. ex Mett.) J.Sm. ex T.Moore	崖薑蕨	Dryncoro	E	TRUE	FALSE	
+120	Dryopteris formosana	Dryopteris formosana (Christ) C.Chr.	臺灣鱗毛蕨	Dryoform	H	TRUE	FALSE	
+121	Dryopteris hasseltii	Dryopteris hasseltii (Blume) C.Chr.	哈氏假複葉耳蕨	Dryohass	H	TRUE	FALSE	
+122	Dryopteris hendersonii	Dryopteris hendersonii (Bedd.) C.Chr.	小苞肉刺蕨	Dryohend	H	TRUE	FALSE	
+123	Dryopteris lepidopoda	Dryopteris lepidopoda Hayata	厚葉鱗毛蕨	Dryolepi	H	TRUE	FALSE	
+124	Dryopteris melanocarpa	Dryopteris melanocarpa Hayata	黑孢鱗毛蕨	Dryomela	H	TRUE	FALSE	
+125	Dryopteris paleolata	Dryopteris paleolata (Pic.Serm.) Li Bing Zhang	魚鱗蕨	Dryopale	H	TRUE	FALSE	
+126	Dryopteris polita	Dryopteris polita Rosenst.	臺東鱗毛蕨	Dryopoli	H	TRUE	FALSE	
+127	Dryopteris subexaltata	Dryopteris subexaltata (Christ) C.Chr.	早田氏鱗毛蕨	Dryosube	H	TRUE	FALSE	
+128	Dryopteris subtriangularis	Dryopteris subtriangularis (C.Hope) C.Chr.	亞三角鱗毛蕨	Dryosubt	H	TRUE	FALSE	
+129	Dryopteris wuzhaohongii	Dryopteris wuzhaohongii Li Bing Zhang	大孢魚鱗蕨	Dryowuzh	H	TRUE	FALSE	
+130	Dysosma pleiantha	Dysosma pleiantha (Hance) Woodson	八角蓮	Dysoplei	H	FALSE	FALSE	
+131	Elaeagnus formosana	Elaeagnus formosana Nakai	臺灣胡頹子	Elaeform	S	FALSE	FALSE	EB
+132	Elaeagnus thunbergii	Elaeagnus thunbergii Servett.	鄧氏胡頹子	Elaethun	S	FALSE	FALSE	EB
+133	Elaeocarpus japonicus	Elaeocarpus japonicus Siebold	薯豆	Elaejapo	T	FALSE	FALSE	EB
+134	Elaeocarpus sylvestris var. sylvestris	Elaeocarpus sylvestris (Lour.) Poir. var. sylvestris	杜英	Elaesylv	T	FALSE	FALSE	EB
+135	Elaphoglossum yoshinagae	Elaphoglossum yoshinagae (Yatabe) Makino	舌蕨	Elapyosh	E	TRUE	FALSE	
+136	Elatostema lineolatum var. majus	Elatostema lineolatum var. majus Wedd.	冷清草	Elatmaju	H	FALSE	FALSE	
+137	Elatostema parvum	Elatostema parvum (Blume) Miq.	絨莖樓梯草	Elatparv	H	FALSE	FALSE	
+138	Elatostema trilobulatum	Elatostema trilobulatum (Hayata) T. Yamaz.	裂葉樓梯草	Elattril	H	FALSE	FALSE	
+139	Euonymus spraguei	Euonymus spraguei Hayata	刺果衛矛	Euonspra	S	FALSE	FALSE	EB
+140	Euonymus tashiroi	Euonymus tashiroi Maxim.	菱葉衛矛	Euontash	S	FALSE	FALSE	EB
+141	Eurya chinensis	Eurya chinensis R. Br.	米碎柃木	Eurychin	S	FALSE	FALSE	EB
+142	Eurya crenatifolia	Eurya crenatifolia (Yamam.) Kobuski	假柃木	Eurycren	S	FALSE	FALSE	EB
+143	Eurya glaberrima	Eurya glaberrima Hayata	厚葉柃木	Euryglab	T	FALSE	FALSE	EB
+144	Eurya loquaiana	Eurya loquaiana Dunn	細枝柃木	Euryloqu	S	FALSE	FALSE	EB
+145	Ficus formosana	Ficus formosana Maxim.	天仙果	Ficuform	S	FALSE	FALSE	EB
+146	Ficus sarmentosa var. nipponica	Ficus sarmentosa var. nipponica (Franch. & Sav.) Corner	珍珠蓮	Ficunipp	L	FALSE	FALSE	
+147	Fissistigma oldhamii	Fissistigma oldhamii (Hemsl.) Merr.	瓜馥木	Fissoldh	L	FALSE	FALSE	
+148	Galium formosense	Galium formosense Ohwi	圓葉豬殃殃	Galiform	H	FALSE	FALSE	
+149	Glochidion acuminatum	Glochidion acuminatum Müll. Arg.	裏白饅頭果	Glocacum	T	FALSE	FALSE	EB
+150	Goniophlebium amoenum var. arisanense	Goniophlebium amoenum (Wall. ex Mett.) Bedd. var. arisanense (Hayata) Rödl-Linder	阿里山水龍骨	Goniaris	E	TRUE	TRUE	
+151	Goniophlebium mengtzeense	Goniophlebium mengtzeense (Christ) Rödl-Linder	蒙自水龍骨	Gonimeng	E	TRUE	FALSE	
+152	Goniophlebium raishaense	Goniophlebium raishaense (Rosenst.) L.Y.Kuo	大葉水龍骨	Gonirais	E	TRUE	TRUE	
+153	Goodyera rubicunda	Goodyera rubicunda (Blume) Lindl.	長苞斑葉蘭	Goodrubi	H	FALSE	FALSE	
+154	Goodyera similis	Goodyera similis Blume	鳥嘴蓮	Goodsimi	H	FALSE	FALSE	
+155	Goodyera sp.	Goodyera R. Br.	斑葉蘭屬	Good_sp	H	FALSE	FALSE	
+156	Gynostemma pentaphyllum	Gynostemma pentaphyllum (Thunb.) Makino	絞股藍	Gynopent	L	FALSE	FALSE	
+157	Haplopteris flexuosa	Haplopteris flexuosa (Fée) E.H.Crane	書帶蕨	Haplflex	E	TRUE	FALSE	
+158	Hedera rhombea var. formosana	Hedera rhombea var. formosana (Nakai) H.L. Li	臺灣常春藤	Hedeform	L	FALSE	FALSE	
+159	Helicia cochinchinensis	Helicia cochinchinensis Lour.	紅葉樹	Helicoch	T	FALSE	FALSE	EB
+160	Helicia formosana	Helicia formosana Hemsl.	山龍眼	Heliform	T	FALSE	FALSE	EB
+161	Helonias umbellata	Helonias umbellata (Baker) N. Tanaka	臺灣胡麻花	Heloumbe	H	FALSE	FALSE	
+162	Histiopteris incisa	Histiopteris incisa (Thunb.) J.Sm.	栗蕨	Histinci	H	TRUE	FALSE	
+163	Huperzia serrata	Huperzia serrata (Thunb.) Trevis.	千層塔	Hupeserr	H	TRUE	FALSE	
+164	Hydrangea angustipetala	Hydrangea angustipetala Hayata	狹瓣八仙花	Hydrangu	S	FALSE	FALSE	DB
+165	Hydrangea anomala	Hydrangea anomala D. Don	藤繡球	Hydranom	L	FALSE	FALSE	
+166	Hydrangea aspera	Hydrangea aspera D. Don	高山藤繡球	Hydraspe	S	FALSE	FALSE	DB
+167	Hydrangea fauriei	Hydrangea fauriei (Hayata) Y.De Smet & Granados	圓葉鑽地風	Hydrfaur	L	FALSE	FALSE	
+168	Hydrangea integrifolia	Hydrangea integrifolia Hayata	大枝掛繡球	Hydrinte	L	FALSE	FALSE	
+169	Hydrangea paniculata	Hydrangea paniculata Siebold	水亞木	Hydrpani	S	FALSE	FALSE	DB
+170	Hydrangea viburnoides	Hydrangea viburnoides (Hook.f. & Thomson) Y.De Smet & Granados	青棉花	Hydrvibu	L	FALSE	FALSE	
+171	Hydrocotyle setulosa	Hydrocotyle setulosa Hayata	阿里山天胡荽	Hydrsetu	H	FALSE	FALSE	
+172	Hylodesmum laterale	Hylodesmum laterale (Schindl.) H. Ohashi & R.R. Mill	琉球山螞蝗	Hylolate	H	FALSE	FALSE	
+173	Hylodesmum leptopus	Hylodesmum leptopus (A. Gray ex Benth.) H. Ohashi & R.R. Mill	細梗山螞蝗	Hylolept	H	FALSE	FALSE	
+174	Hymenasplenium adiantifrons	Hymenasplenium adiantifrons (Hayata) Viane & S.Y.Dong	阿里山膜葉鐵角蕨	Hymeadia	H	TRUE	TRUE	
+175	Hymenophyllum badium	Hymenophyllum badium Hook. & Grev.	蕗蕨	Hymebadi	E	TRUE	FALSE	
+176	Hymenophyllum nitidulum	Hymenophyllum nitidulum (Bosch) Ebihara & K.Iwats.	細口團扇蕨	Hymeniti	E	TRUE	FALSE	
+177	Hymenophyllum okadae	Hymenophyllum okadae Masam.	青綠膜蕨	Hymeokad	E	TRUE	FALSE	
+178	Hymenophyllum oligosorum	Hymenophyllum oligosorum Makino	長毛蕗蕨	Hymeolig	E	TRUE	FALSE	
+179	Hymenophyllum paniculiflorum	Hymenophyllum paniculiflorum C.Presl	頂囊蕗蕨	Hymepani	E	TRUE	FALSE	
+180	Hymenophyllum polyanthos	Hymenophyllum polyanthos (Sw.) Sw.	細葉蕗蕨	Hymepoly	E	TRUE	FALSE	
+181	Idesia polycarpa	Idesia polycarpa Maxim.	山桐子	Idespoly	T	FALSE	FALSE	DB
+182	Ilex ficoidea	Ilex ficoidea Hemsl.	臺灣糊樗	Ilexfico	T	FALSE	FALSE	EB
+183	Ilex formosana	Ilex formosana Maxim.	糊樗	Ilexform	T	FALSE	FALSE	EB
+184	Ilex goshiensis	Ilex goshiensis Hayata	圓葉冬青	Ilexgosh	T	FALSE	FALSE	EB
+185	Ilex hayatana	Ilex hayatana Loes.	早田氏冬青	Ilexhaya	T	FALSE	TRUE	EB
+186	Ilex lonicerifolia var. lonicerifolia	Ilex lonicerifolia Hayata var. lonicerifolia	忍冬葉冬青	Ilexloni	T	FALSE	TRUE	EB
+187	Ilex lonicerifolia var. matsudae	Ilex lonicerifolia var. matsudae Yamamoto	松田氏冬青	Ilexmats	T	FALSE	TRUE	EB
+188	Ilex rarasanensis	Ilex rarasanensis Sasaki	拉拉山冬青	Ilexrara	T	FALSE	TRUE	EB
+189	Ilex rotunda	Ilex rotunda Thunb.	鐵冬青	Ilexrotu	T	FALSE	FALSE	EB
+190	Ilex sugerokii var. brevipedunculata	Ilex sugerokii var. brevipedunculata (Maxim.) S.Y. Hu	太平山冬青	Ilexbrev	T	FALSE	FALSE	EB
+191	Ilex suzukii	Ilex suzukii S.Y. Hu	鈴木氏冬青	Ilexsuzu	T	FALSE	FALSE	EB
+192	Ilex tugitakayamensis	Ilex tugitakayamensis Sasaki	雪山冬青	Ilextugi	T	FALSE	FALSE	EB
+193	Illicium anisatum	Illicium anisatum L.	白花八角	Illianis	T	FALSE	FALSE	EB
+194	Illicium arborescens	Illicium arborescens Hayata	臺灣八角	Illiarbo	T	FALSE	FALSE	EB
+195	Itea parviflora	Itea parviflora Hemsl.	小花鼠刺	Iteaparv	T	FALSE	FALSE	EB
+196	Juncus effusus var. decipiens	Juncus effusus var. decipiens Buchenau	燈心草	Juncdeci	H	FALSE	FALSE	
+197	Lasianthus appressihirtus var. appressihirtus	Lasianthus appressihirtus Simizu var. appressihirtus	密毛雞屎樹	Lasiappr	S	FALSE	TRUE	EB
+198	Lasianthus appressihirtus var. maximus	Lasianthus appressihirtus var. maximus Simizu ex L.J. Liu & C.S. Chao	大葉密毛雞屎樹	Lasimaxi	S	FALSE	FALSE	EB
+199	Lasianthus fordii	Lasianthus fordii Hance	琉球雞屎樹	Lasiford	S	FALSE	FALSE	EB
+200	Lasianthus japonicus var. japonicus	Lasianthus japonicus Miq. var. japonicus	日本雞屎樹	Lasijapo	S	FALSE	FALSE	EB
+201	Lasianthus japonicus var. satsumensis	Lasianthus japonicus var. satsumensis (Matsum.) Makino	粗毛日本雞屎樹	Lasisats	S	FALSE	FALSE	EB
+202	Lasianthus microstachys	Lasianthus microstachys Hayata	薄葉雞屎樹	Lasimicr	S	FALSE	FALSE	EB
+203	Lasianthus sp.	Lasianthus Jack.	雞屎樹屬	Lasi_sp	S	FALSE	FALSE	EB
+204	Lemmaphyllum microphyllum	Lemmaphyllum microphyllum C.Presl	伏石蕨	Lemmmicr	E	TRUE	FALSE	
+205	Lemmaphyllum rostratum	Lemmaphyllum rostratum (Bedd.) Tagawa	骨牌蕨	Lemmrost	E	TRUE	FALSE	
+206	Lepidomicrosorium ningpoense	Lepidomicrosorium ningpoense (Baker) L.Y.Kuo	攀援星蕨	Lepining	E	TRUE	FALSE	
+207	Lepisorus kawakamii	Lepisorus kawakamii (Hayata) Tagawa	川上氏瓦葦	Lepikawa	E	TRUE	TRUE	
+208	Lepisorus monilisorus	Lepisorus monilisorus (Hayata) Tagawa	擬芨瓦葦	Lepimoni	E	TRUE	TRUE	
+209	Lepisorus obscurevenulosus	Lepisorus obscurevenulosus (Hayata) Ching	奧瓦葦	Lepiobsc	E	TRUE	FALSE	
+210	Lepisorus suboligolepidus	Lepisorus suboligolepidus Ching	擬鱗瓦葦	Lepisubo	E	TRUE	FALSE	
+211	Leptogramma tottoides	Leptogramma tottoides Hayata ex H.Ito	尾葉茯蕨	Lepttott	H	TRUE	FALSE	
+212	Ligustrum liukiuense	Ligustrum liukiuense Koidz.	日本女貞	Liguliuk	T	FALSE	FALSE	EB
+213	Ligustrum sinense	Ligustrum sinense Lour.	小實女貞	Ligusine	T	FALSE	FALSE	EB
+214	Lindera communis	Lindera communis Hemsl.	香葉樹	Lindcomm	T	FALSE	FALSE	DB
+215	Lindera megaphylla	Lindera megaphylla Hemsl.	大香葉樹	Lindmega	T	FALSE	FALSE	DB
+216	Lindsaea bonii	Lindsaea bonii Christ	海島鱗始蕨	Lindboni	H	TRUE	FALSE	
+217	Lindsaea chienii	Lindsaea chienii Ching	錢氏鱗始蕨	Lindchie	H	TRUE	FALSE	
+218	Lithocarpus brevicaudatus	Lithocarpus brevicaudatus (Skan) Hayata	短尾柯	Lithbrev	T	FALSE	FALSE	EB
+219	Lithocarpus hancei	Lithocarpus hancei (Benth.) Rehder	三斗石櫟	Lithhanc	T	FALSE	FALSE	EB
+220	Lithocarpus kawakamii	Lithocarpus kawakamii (Hayata) Hayata	大葉石櫟	Lithkawa	T	FALSE	FALSE	EB
+221	Litsea acuminata	Litsea acuminata (Blume) Kurata	長葉木薑子	Litsacum	T	FALSE	FALSE	EB
+222	Litsea elongata var. mushaensis	Litsea elongata var. mushaensis (Hayata) J.C. Liao	霧社木薑子	Litsmush	T	FALSE	FALSE	EB
+223	Lonicera acuminata	Lonicera acuminata Wall.	阿里山忍冬	Loniacum	L	FALSE	FALSE	
+224	Lophatherum gracile	Lophatherum gracile Brongn.	淡竹葉	Lophgrac	H	FALSE	FALSE	
+225	Loxogramme remotefrondigera	Loxogramme remotefrondigera Hayata	長柄劍蕨	Loxoremo	E	TRUE	TRUE	
+226	Loxogramme salicifolia	Loxogramme salicifolia (Makino) Makino	柳葉劍蕨	Loxosali	E	TRUE	FALSE	
+227	Luzula plumosa	Luzula plumosa E. Mey.	臺灣糖星草	Luzuplum	H	FALSE	FALSE	
+228	Lycopodiella cernua	Lycopodiella cernua (L.) Pic.Serm.	過山龍	Lycocern	L	TRUE	FALSE	
+229	Lysionotus pauciflorus var. pauciflorus	Lysionotus pauciflorus Maxim. var. pauciflorus	石吊蘭	Lysipauc	E	FALSE	FALSE	
+230	Machilus japonica var. japonica	Machilus japonica Siebold & Zucc. var. japonica	假長葉楠	Machjapo	T	FALSE	FALSE	EB
+231	Machilus sp.	Machilus Nees	楨楠屬	Mach_sp	T	FALSE	FALSE	EB
+232	Machilus thunbergii	Machilus thunbergii Siebold & Zucc.	豬腳楠	Machthun	T	FALSE	FALSE	EB
+233	Machilus zuihoensis var. mushaensis	Machilus zuihoensis var. mushaensis (F.Y. Lu) Y.C. Liu	青葉楠	Machmush	T	FALSE	FALSE	EB
+234	Machilus zuihoensis var. zuihoensis	Machilus zuihoensis Hayata var. zuihoensis	香楠	Machzuih	T	FALSE	TRUE	EB
+235	Maesa japonica	Maesa japonica (Thunb.) Moritzi & Zoll.	山桂花	Maesjapo	S	FALSE	FALSE	EB
+236	Malus doumeri	Malus doumeri (Bois) A. Chev.	臺灣蘋果	Maludoum	T	FALSE	FALSE	DB
+237	Meliosma squamulata	Meliosma squamulata Hance	綠樟	Melisqua	T	FALSE	FALSE	EB
+238	Metathelypteris gracilescens	Metathelypteris gracilescens (Blume) Ching	光葉凸軸蕨	Metagrac	H	TRUE	FALSE	
+239	Metathelypteris laxa	Metathelypteris laxa (Franch. & Sav.) Ching	柔葉凸軸蕨	Metalaxa	H	TRUE	FALSE	
+240	Metathelypteris uraiensis	Metathelypteris uraiensis (Rosenst.) Ching	毛柄凸軸蕨	Metaurai	H	TRUE	FALSE	
+241	Michelia compressa	Michelia compressa (Maxim.) Sarg.	烏心石	Michcomp	T	FALSE	FALSE	EB
+242	Microlepia hookeriana	Microlepia hookeriana (Wall. ex Hook.) C.Presl	虎克氏鱗蓋蕨	Micrhook	H	TRUE	FALSE	
+243	Microlepia obtusiloba	Microlepia obtusiloba Hayata	團羽鱗蓋蕨	Microbtu	H	TRUE	FALSE	
+244	Micropolypodium okuboi	Micropolypodium okuboi (Yatabe) Hayata	梳葉蕨	Microkub	E	TRUE	FALSE	
+245	Microstegium ciliatum	Microstegium ciliatum (Trin.) A. Camus	剛莠竹	Micrcili	H	FALSE	FALSE	
+246	Microtropis fokienensis	Microtropis fokienensis Dunn	福建賽衛矛	Micrfoki	S	FALSE	FALSE	EB
+247	Miscanthus floridulus	Miscanthus floridulus (Labill.) Warb. ex K. Schum. & Lauterb.	五節芒	Miscflor	H	FALSE	FALSE	
+248	Mitchella undulata	Mitchella undulata Siebold & Zucc.	蔓虎刺	Mitcundu	H	FALSE	FALSE	
+249	Mitella formosana	Mitella formosana (Hayata) Masam.	臺灣嗩吶草	Miteform	H	FALSE	FALSE	
+250	Monachosorum henryi	Monachosorum henryi Christ	稀子蕨	Monahenr	H	TRUE	FALSE	
+251	Monachosorum maximowiczii	Monachosorum maximowiczii (Baker) Hayata	岩穴蕨	Monamaxi	E	TRUE	FALSE	
+252	Morinda umbellata	Morinda umbellata L.	羊角藤	Moriumbe	L	FALSE	FALSE	
+253	Mussaenda sp.	Mussaenda Burm.	玉葉金花屬	Muss_sp	L	FALSE	FALSE	
+254	Myrica rubra	Myrica rubra (Lour.) Siebold & Zucc.	楊梅	Myrirubr	T	FALSE	FALSE	EB
+255	Myrmechis drymoglossifolia	Myrmechis drymoglossifolia Hayata	阿里山全唇蘭	Myrmdrym	H	FALSE	TRUE	
+256	Myrsine seguinii	Myrsine seguinii H. Lév.	大明橘	Myrssegu	T	FALSE	FALSE	EB
+257	Myrsine stolonifera	Myrsine stolonifera (Koidz.) E. Walker	蔓竹杞	Myrsstol	S	FALSE	FALSE	EB
+258	Nageia nagi	Nageia nagi (Thunb.) Kuntze	竹柏	Nagenagi	T	FALSE	FALSE	CO
+259	Neolitsea aciculata	Neolitsea aciculata (Blume) Koidz.	銳葉新木薑子	Neolacic	T	FALSE	FALSE	EB
+261	Neolitsea acuminatissima	Neolitsea acuminatissima (Hayata) Kaneh. & Sasaki	高山新木薑子	Neolacum	T	FALSE	FALSE	EB
+262	Neolitsea konishii	Neolitsea konishii (Hayata) Kaneh. & Sasaki	五掌楠	Neolkoni	T	FALSE	FALSE	EB
+263	Neolitsea sericea var. sericea	Neolitsea sericea (Blume) Koidz. var. sericea	白新木薑子	Neolseri	T	FALSE	FALSE	EB
+264	Nephrolepis cordifolia	Nephrolepis cordifolia (L.) C.Presl	腎蕨	Nephcord	H	TRUE	FALSE	
+265	Odontosoria chinensis	Odontosoria chinensis (L.) J.Sm.	烏蕨	Odonchin	H	TRUE	FALSE	
+266	Ophiopogon intermedius	Ophiopogon intermedius D. Don	間型沿階草	Ophiinte	H	FALSE	FALSE	
+267	Ophiorrhiza japonica	Ophiorrhiza japonica Blume	蛇根草	Ophijapo	H	FALSE	FALSE	
+268	Ophiorrhiza pumila	Ophiorrhiza pumila Champ. ex Benth.	白花蛇根草	Ophipumi	H	FALSE	FALSE	
+269	Oplismenus compositus	Oplismenus compositus (L.) P. Beauv.	竹葉草	Oplicomp	H	FALSE	FALSE	
+270	Osmanthus heterophyllus	Osmanthus heterophyllus (G. Don) P.S. Green	異葉木犀	Osmahete	T	FALSE	FALSE	EB
+271	Osmanthus matsumuranus	Osmanthus matsumuranus Hayata	大葉木犀	Osmamats	T	FALSE	FALSE	EB
+272	Oxalis acetosella subsp. griffithii var. formosana	Oxalis acetosella L. subsp. griffithii (Edgew. & Hook f.) H.Hara var. formosana S.F.Huang & T.C.Huang	臺灣山酢漿草	Oxalform	H	FALSE	FALSE	
+273	Parthenocissus dalzielii	Parthenocissus dalzielii Gagnep.	地錦	Partdalz	L	FALSE	FALSE	
+274	Pellionia radicans	Pellionia radicans (Siebold & Zucc.) Wedd.	赤車使者	Pellradi	H	FALSE	FALSE	
+275	Peperomia nakaharae	Peperomia nakaharae Hayata	山椒草	Pepenaka	H	FALSE	TRUE	
+276	Peracarpa carnosa	Peracarpa carnosa (Wall.) Hook. f. & Thomson	山桔梗	Peracarn	H	FALSE	FALSE	
+277	Persicaria chinensis	Persicaria chinensis (L.) H.Gross	火炭母草	Perschin	H	FALSE	FALSE	
+278	Persicaria thunbergii	Persicaria thunbergii (Siebold & Zucc.) H.Gross	戟葉蓼	Persthun	H	FALSE	FALSE	
+279	Phlegmariurus cryptomerinus	Phlegmariurus cryptomerinus (Maxim.) Satou	柳杉葉馬尾杉	Phlecryp	E	TRUE	FALSE	
+280	Phlegmariurus fargesii	Phlegmariurus fargesii (Herter) Ching	銳葉馬尾杉	Phlefarg	E	TRUE	FALSE	
+281	Phlegmariurus fordii	Phlegmariurus fordii (Baker) Ching	福氏馬尾杉	Phleford	E	TRUE	FALSE	
+282	Photinia niitakayamensis	Photinia niitakayamensis Hayata	玉山假沙梨	Photniit	T	FALSE	FALSE	EB
+283	Phyllanthus oligospermus	Phyllanthus oligospermus Hayata	新竹油柑	Phylolig	S	FALSE	FALSE	EB
+284	Pieris taiwanensis	Pieris taiwanensis Hayata	臺灣馬醉木	Piertaiw	S	FALSE	FALSE	EB
+285	Pilea aquarum subsp. brevicornuta	Pilea aquarum subsp. brevicornuta (Hayata) C.J. Chen	短角冷水麻	Pilebrev	H	FALSE	FALSE	
+286	Pilea sp.	Pilea Lindl.	冷水花屬	Pile_sp	H	FALSE	FALSE	
+287	Piper kadsura	Piper kadsura (Choisy) Ohwi	風藤	Pipekads	L	FALSE	FALSE	
+288	Piper sintenense	Piper sintenense Hatus.	薄葉風藤	Pipesint	L	FALSE	FALSE	
+289	Plagiogyria adnata	Plagiogyria adnata (Blume) Bedd.	瘤足蕨	Plagadna	H	TRUE	FALSE	
+290	Plagiogyria euphlebia	Plagiogyria euphlebia (Kunze) Mett.	華中瘤足蕨	Plageuph	H	TRUE	FALSE	
+291	Plagiogyria falcata	Plagiogyria falcata Copel.	倒葉瘤足蕨	Plagfalc	H	TRUE	FALSE	
+292	Plagiogyria glauca	Plagiogyria glauca (Blume) Mett.	臺灣瘤足蕨	Plagglau	H	TRUE	FALSE	
+293	Plagiogyria stenoptera	Plagiogyria stenoptera (Hance) Diels	耳形瘤足蕨	Plagsten	H	TRUE	FALSE	
+294	Pollia japonica	Pollia japonica Thunb.	杜若	Polljapo	H	FALSE	FALSE	
+295	Polystichum hancockii	Polystichum hancockii (Hance) Diels	韓氏耳蕨	Polyhanc	H	TRUE	FALSE	
+296	Polystichum integripinnum	Polystichum integripinnum Hayata	狹葉貫眾蕨	Polyinte	H	TRUE	FALSE	
+297	Polystichum parvipinnulum	Polystichum parvipinnulum Tagawa	尖葉耳蕨	Polyparv	H	TRUE	TRUE	
+298	Pothos chinensis	Pothos chinensis (Raf.) Merr.	柚葉藤	Pothchin	L	FALSE	FALSE	
+299	Pourthiaea beauverdiana var. notabilis	Pourthiaea beauverdiana var. notabilis (C.K. Schneid.) Hatus.	臺灣老葉兒樹	Pournota	T	FALSE	FALSE	DB
+300	Pourthiaea lucida	Pourthiaea lucida Decne.	臺灣石楠	Pourluci	T	FALSE	TRUE	DB
+301	Pourthiaea villosa var. parvifolia	Pourthiaea villosa var. parvifolia (E. Pritz.) H. Iketani & H. Ohashi	小葉石楠	Pourparv	T	FALSE	TRUE	DB
+302	Pronephrium gymnopteridifrons	Pronephrium gymnopteridifrons (Hayata) Holttum	大羽新月蕨	Prongymn	H	TRUE	FALSE	
+303	Prosaptia formosana	Prosaptia formosana (Hayata) T.C.Hsu	寶島穴子蕨	Prosform	E	TRUE	FALSE	
+304	Prunus buergeriana	Prunus buergeriana Miq.	布氏稠李	Prunbuer	T	FALSE	FALSE	DB
+305	Prunus obtusata	Prunus obtusata Koehne	臺灣稠李	Prunobtu	T	FALSE	FALSE	DB
+306	Prunus phaeosticta var. phaeosticta	Prunus phaeosticta (Hance) Maxim. var. phaeosticta	墨點櫻桃	Prunphae	T	FALSE	FALSE	EB
+307	Prunus transarisanensis var. takasagomontana	Prunus transarisanensis Hayata var. takasagomontana (Sasaki) Lu, Huang & Linn.	山白櫻	Pruntaka	T	FALSE	TRUE	DB
+308	Psychotria serpens	Psychotria serpens L.	拎壁龍	Psycserp	L	FALSE	FALSE	
+309	Pteris bella	Pteris bella Tagawa	長柄鳳尾蕨	Pterbell	H	TRUE	FALSE	
+310	Pteris tokioi	Pteris tokioi Masam.	鈴木氏鳳尾蕨	Ptertoki	H	TRUE	FALSE	
+311	Pteris wallichiana	Pteris wallichiana J.Agardh	瓦氏鳳尾蕨	Pterwall	H	TRUE	FALSE	
+312	Pyrenaria shinkoensis	Pyrenaria shinkoensis (Hayata) H. Keng	烏皮茶	Pyreshin	T	FALSE	FALSE	EB
+313	Pyrola alboreticulata	Pyrola alboreticulata Hayata	斑紋鹿蹄草	Pyroalbo	H	FALSE	FALSE	
+314	Pyrrosia lingua	Pyrrosia lingua (Thunb.) Farw.	石葦	Pyrrling	E	TRUE	FALSE	
+315	Pyrrosia polydactylos	Pyrrosia polydactylos (Hance) Ching	槭葉石葦	Pyrrpoly	E	TRUE	TRUE	
+316	Pyrrosia sheareri	Pyrrosia sheareri (Baker) Ching	廬山石葦	Pyrrshea	E	TRUE	FALSE	
+317	Quercus gilva	Quercus gilva Blume	赤皮	Quergilv	T	FALSE	FALSE	EB
+318	Quercus glauca var. glauca	Quercus glauca Thunb. var. glauca	青剛櫟	Querglau	T	FALSE	FALSE	EB
+319	Quercus longinux var. longinux	Quercus longinux Hayata var. longinux	錐果櫟	Querlong	T	FALSE	TRUE	EB
+320	Quercus morii	Quercus morii Hayata	赤柯	Quermori	T	FALSE	FALSE	EB
+321	Quercus sessilifolia	Quercus sessilifolia Blume	毽子櫟	Quersess	T	FALSE	FALSE	EB
+322	Quercus stenophylloides	Quercus stenophylloides Hayata	狹葉櫟	Quersten	T	FALSE	FALSE	EB
+323	Rhododendron formosanum	Rhododendron formosanum Hemsl.	臺灣杜鵑	Rhodform	T	FALSE	FALSE	EB
+324	Rhododendron leptosanthum	Rhododendron leptosanthum Hayata	西施花	Rhodlept	T	FALSE	FALSE	EB
+325	Rhododendron noriakianum	Rhododendron noriakianum Suzuki	細葉杜鵑	Rhodnori	S	FALSE	TRUE	EB
+326	Rhododendron pseudochrysanthum	Rhododendron pseudochrysanthum Hayata	玉山杜鵑	Rhodpseu	S	FALSE	FALSE	EB
+327	Rhus ambigua	Rhus ambigua Lav. ex Dippel	臺灣藤漆	Rhusambi	L	FALSE	FALSE	
+328	Rubia lanceolata	Rubia lanceolata Hayata	金劍草	Rubilanc	L	FALSE	FALSE	
+329	Rubus buergeri	Rubus buergeri Miq.	寒莓	Rububuer	S	FALSE	FALSE	DB
+330	Rubus corchorifolius	Rubus corchorifolius L. f.	變葉懸鉤子	Rubucorc	S	FALSE	FALSE	DB
+331	Rubus croceacanthus	Rubus croceacanthus ×corchorifolius Juinn-Yih Huang and Jer-Ming Hu	虎婆刺	Rubucroc	S	FALSE	FALSE	DB
+332	Rubus pungens var. oldhamii	Rubus pungens var. oldhamii (Miq.) Maxim.	毛刺懸鉤子	Rubuoldh	S	FALSE	FALSE	DB
+333	Rubus pyrifolius	Rubus pyrifolius Sm.	梨葉懸鉤子	Rubupyri	L	FALSE	FALSE	
+334	Rubus ritozanensis	Rubus ritozanensis Sasaki	李棟山懸鉤子	Ruburito	S	FALSE	FALSE	EB
+335	Rubus rosifolius	Rubus rosifolius ×fraxinifolius Juinn-Yih Huang and Jer-Ming Hu	刺莓	Ruburosi	S	FALSE	FALSE	EB
+336	Rubus swinhoei	Rubus swinhoei Hance	斯氏懸鉤子	Rubuswin	S	FALSE	FALSE	EB
+337	Rubus trianthus	Rubus trianthus Focke	苦懸鉤子	Rubutria	S	FALSE	FALSE	DB
+338	Sabia swinhoei	Sabia swinhoei Hemsl.	臺灣清風藤	Sabiswin	L	FALSE	FALSE	
+339	Salvia formosana var. matsudae	Salvia formosana var. matsudae (Kudô) T.C. Huang & J.T. Wu	蕨葉紫花鼠尾草	Salvmats	H	FALSE	FALSE	
+340	Sanicula lamelligera	Sanicula lamelligera Hance	三葉山芹菜	Sanilame	H	FALSE	FALSE	
+341	Sanicula petagnioides	Sanicula petagnioides Hayata	五葉山芹菜	Sanipeta	H	FALSE	FALSE	
+342	Sarcandra glabra	Sarcandra glabra (Thunb.) Nakai	草珊瑚	Sarcglab	S	FALSE	FALSE	EB
+343	Sarcopyramis napalensis var. bodinieri	Sarcopyramis napalensis var. bodinieri (H. Lév. & Vaniot) H. Lév.	肉穗野牡丹	Sarcbodi	H	FALSE	FALSE	
+344	Sarcopyramis napalensis var. delicata	Sarcopyramis napalensis var. delicata (C.B. Rob.) S.F. Huang & T.C. Huang	東方肉穗野牡丹	Sarcdeli	H	FALSE	FALSE	
+345	Schefflera octophylla	Schefflera octophylla (Lour.) Harms	鵝掌柴	Scheocto	T	FALSE	FALSE	EB
+346	Schima superba var. superba	Schima superba Gard. & Champ. var. superba	木荷	Schisupe	T	FALSE	FALSE	EB
+347	Schisandra arisanensis	Schisandra arisanensis Hayata	阿里山五味子	Schiaris	L	FALSE	FALSE	
+348	Sedum actinocarpum	Sedum actinocarpum Yamam.	星果佛甲草	Seduacti	H	FALSE	FALSE	
+349	Selaginella delicatula	Selaginella delicatula (Desv. ex Poir.) Alston	全緣卷柏	Seladeli	H	TRUE	FALSE	
+350	Selaginella doederleinii subsp. doederleinii	Selaginella doederleinii Hieron. subsp. doederleinii	生根卷柏	Seladoed	H	TRUE	FALSE	
+351	Selaginella involvens	Selaginella involvens (Sw.) Spring	密葉卷柏	Selainvo	E	TRUE	FALSE	
+352	Selaginella labordei	Selaginella labordei Hieron. ex Christ	玉山卷柏	Selalabo	H	TRUE	FALSE	
+353	Selaginella remotifolia	Selaginella remotifolia Spring	疏葉卷柏	Selaremo	H	TRUE	FALSE	
+354	Selliguea echinospora	Selliguea echinospora (Tagawa) Fraser-Jenk.	大葉玉山茀蕨	Sellechi	E	TRUE	TRUE	
+355	Selliguea engleri	Selliguea engleri (Luerss.) Fraser-Jenk.	恩氏茀蕨	Sellengl	E	TRUE	FALSE	
+356	Senecio nemorensis var. dentatus	Senecio nemorensis var. dentatus (Kitam.) H. Koyama	黃菀	Senedent	H	FALSE	FALSE	
+357	Shortia rotundifolia var. subcordata	Shortia rotundifolia var. subcordata (Hayata) T.C. Huang & A. Hsiao	圓葉裂緣花	Shorsubc	H	FALSE	TRUE	
+358	Skimmia reevesiana	Skimmia reevesiana (Fortune) Fortune	深紅茵芋	Skimreev	S	FALSE	FALSE	EB
+359	Smilax arisanensis	Smilax arisanensis Hayata	阿里山菝葜	Smilaris	L	FALSE	FALSE	
+360	Smilax bockii	Smilax bockii Warb.	平柄菝葜	Smilbock	L	FALSE	FALSE	
+361	Smilax bracteata var. bracteata	Smilax bracteata C.Presl var. bracteata	假菝葜	Smilbrac	L	FALSE	FALSE	
+362	Smilax china	Smilax china L.	菝葜	Smilchin	L	FALSE	FALSE	
+363	Smilax hayatae	Smilax hayatae T. Koyama	早田氏菝葜	Smilhaya	L	FALSE	FALSE	
+364	Smilax lanceifolia	Smilax lanceifolia Roxb.	臺灣土茯苓	Smillanc	L	FALSE	FALSE	
+365	Smilax sp.	Smilax L.	菝葜屬	Smil_sp	L	FALSE	FALSE	
+366	Smilax taipeiensis	Smilax taipeiensis T.C.Hsu & S.W.Chung	台北土茯苓	Smiltaip	L	FALSE	FALSE	
+367	Sorbus randaiensis	Sorbus randaiensis (Hayata) Koidz.	巒大花楸	Sorbrand	T	FALSE	FALSE	DB
+368	Stachyurus himalaicus	Stachyurus himalaicus Hook. f. & Thomson	通條樹	Stachima	T	FALSE	FALSE	EB
+369	Stauntonia obovatifoliola	Stauntonia obovatifoliola Hayata	石月	Stauobov	L	FALSE	FALSE	
+370	Stegnogramma griffithii	Stegnogramma griffithii (T.Moore) K.Iwats.	聖蕨	Steggrif	H	TRUE	FALSE	
+371	Stegnogramma wilfordii	Stegnogramma wilfordii (Hook.) Seriz.	威氏聖蕨	Stegwilf	H	TRUE	FALSE	
+372	Strobilanthes rankanensis	Strobilanthes rankanensis Hayata	蘭崁馬藍	Strorank	H	FALSE	FALSE	
+373	Sycopsis sinensis	Sycopsis sinensis Oliv.	水絲梨	Sycosine	T	FALSE	FALSE	EB
+374	Symplocos arisanensis	Symplocos arisanensis Hayata	阿里山灰木	Symparis	T	FALSE	FALSE	EB
+375	Symplocos glauca	Symplocos glauca (Thunb.) Koidz.	山羊耳	Sympglau	T	FALSE	FALSE	EB
+376	Symplocos heishanensis	Symplocos heishanensis Hayata	平遮那灰木	Sympheis	T	FALSE	FALSE	EB
+377	Symplocos konishii	Symplocos konishii Hayata	小西氏灰木	Sympkoni	T	FALSE	FALSE	EB
+378	Symplocos macrostroma	Symplocos macrostroma Hayata	大花灰木	Sympmacr	T	FALSE	FALSE	EB
+379	Symplocos migoi	Symplocos migoi Nagarn.	擬日本灰木	Sympmigo	T	FALSE	FALSE	EB
+380	Symplocos setchuensis	Symplocos setchuensis Brand	四川灰木	Sympsetc	T	FALSE	FALSE	EB
+381	Symplocos stellaris	Symplocos stellaris Brand	枇杷葉灰木	Sympstel	T	FALSE	FALSE	EB
+382	Symplocos theophrastifolia	Symplocos theophrastifolia Siebold & Zucc.	山豬肝	Symptheo	T	FALSE	FALSE	EB
+383	Symplocos wikstroemiifolia	Symplocos wikstroemiifolia Hayata	月桂葉灰木	Sympwiks	S	FALSE	FALSE	EB
+384	Syzygium buxifolium	Syzygium buxifolium Hook. & Arn.	小葉赤楠	Syzybuxi	T	FALSE	FALSE	EB
+385	Ternstroemia gymnanthera	Ternstroemia gymnanthera (Wight & Arn.) Sprague	厚皮香	Terngymn	T	FALSE	FALSE	EB
+386	Tetrastigma bioritsense	Tetrastigma bioritsense (Hayata) Hsu & Kuoh	三腳虌草	Tetrbior	L	FALSE	TRUE	
+387	Tetrastigma umbellatum	Tetrastigma umbellatum (Hemsl.) Nakai	臺灣崖爬藤	Tetrumbe	L	FALSE	FALSE	
+388	Trachelospermum formosanum	Trachelospermum formosanum Y.C. Liu & Ou	臺灣絡石	Tracform	L	FALSE	FALSE	
+389	Trachelospermum jasminoides	Trachelospermum jasminoides (Lindl.) Lem.	絡石	Tracjasm	L	FALSE	FALSE	
+390	Tricalysia dubia	Tricalysia dubia (Lindl.) Ohwi	狗骨仔	Tricdubi	T	FALSE	FALSE	EB
+391	Tripterospermum luzonense	Tripterospermum luzonense (Vidal) J. Murata	高山雙蝴蝶	Tripluzo	L	FALSE	FALSE	
+392	Tripterospermum sp.	Tripterospermum Blume	肺形草屬	Trip_sp	L	FALSE	FALSE	
+393	Trochodendron aralioides	Trochodendron aralioides Siebold & Zucc.	昆欄樹	Trocaral	T	FALSE	FALSE	EB
+394	Tsuga chinensis var. formosana	Tsuga chinensis var. formosana (Hayata) H.L. Li & H. Keng	臺灣鐵杉	Tsugform	T	FALSE	FALSE	CO
+395	Urtica thunbergiana	Urtica thunbergiana Siebold & Zucc.	咬人貓	Urtithun	H	FALSE	FALSE	
+396	Vaccinium emarginatum	Vaccinium emarginatum Hayata	凹葉越橘	Vaccemar	E	FALSE	FALSE	
+397	Vaccinium japonicum var. lasiostemon	Vaccinium japonicum var. lasiostemon Hayata	毛蕊花	Vacclasi	S	FALSE	FALSE	DB
+398	Vaccinium merrillianum	Vaccinium merrillianum Hayata	高山越橘	Vaccmerr	S	FALSE	FALSE	EB
+399	Vandenboschia auriculata	Vandenboschia auriculata (Blume) Copel.	瓶蕨	Vandauri	E	TRUE	FALSE	
+400	Vandenboschia kalamocarpa	Vandenboschia kalamocarpa (Hayata) Ebihara	管苞瓶蕨	Vandkala	E	TRUE	FALSE	
+401	Viburnum erosum	Viburnum erosum Thunb.	松田氏莢蒾	Vibueros	S	FALSE	FALSE	DB
+402	Viburnum foetidum var. rectangulatum	Viburnum foetidum var. rectangulatum Rehder	狹葉莢蒾	Viburect	S	FALSE	FALSE	EB
+403	Viburnum formosanum	Viburnum formosanum (Hance) Hayata	紅子莢蒾	Vibuform	S	FALSE	FALSE	DB
+404	Viburnum luzonicum	Viburnum luzonicum Rolfe	呂宋莢蒾	Vibuluzo	S	FALSE	FALSE	DB
+405	Viburnum sympodiale	Viburnum sympodiale Graebn.	假繡球	Vibusymp	S	FALSE	FALSE	DB
+406	Viburnum urceolatum	Viburnum urceolatum Siebold & Zucc.	壺花莢蒾	Vibuurce	S	FALSE	FALSE	DB
+407	Viola formosana var. formosana	Viola formosana Hayata var. formosana	臺灣菫菜	Violform	H	FALSE	TRUE	
+408	Viola nagasawae	Viola nagasawae Makino & Hayata	臺北菫菜	Violnaga	H	FALSE	TRUE	
+409	Woodwardia unigemmata	Woodwardia unigemmata (Makino) Nakai	頂芽狗脊蕨	Woodunig	H	TRUE	FALSE	
+410	Yushania niitakayamensis	Yushania niitakayamensis (Hayata) Keng f.	玉山箭竹	Yushniit	S	FALSE	FALSE	EB
+411	Zingiber kawagoi	Zingiber kawagoi Hayata	三奈	Zingkawa	H	FALSE	TRUE	
